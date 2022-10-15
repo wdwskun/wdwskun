@@ -1,8 +1,9 @@
 ## About
-First and foremost, I welcome you to my profile.<br>
-Do note that coding/programming is but a hobby of mine.<br>
-Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
-*"No rights reserved."*<br>
+Working on android apps
+I'm fond of viruses under the windows, like a balabolka
+No serious hobbies
+
+"*<br>
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=slowsient.slowsient)
 
 ## Contact
