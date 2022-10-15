@@ -11,13 +11,8 @@ Projects are either under 0-BSD or Unlicense; no other license will be used.<br>
   <thead><tr><th>Name / Link</th><th>ID / Username</th><th>Response Time</th></tr></thead>
 <tbody>
 <tr>
-  <td><a href="https://revolt.chat/" target="_blank">Revolt App</a></td>
-  <td>justdoit</td>
-  <td>24h upto 3 days</td>
-</tr>
-<tr>
   <td><a href="https://getsession.org/" target="_blank">Session App</a></td>
-  <td>05f6e541966c39d60fc6d34d32025b8d8832faccf2978688a238bc208696654b7b</td>
+  <td>05606b57562c2fe658710e669470eac28e7836c78f7899032219a9fdc636d1ed70</td>
   <td>24h upto 7 days</td>
 </tr>
 </tbody>
