@@ -1,6 +1,6 @@
 ## About
 <br>Working on android apps
-I'm fond of viruses under the windows, like a balabolka
+I'm fond of viruses under the windows, like a loner
 No serious hobbies
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=slowsient.slowsient)
