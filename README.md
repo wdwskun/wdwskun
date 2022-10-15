@@ -22,14 +22,5 @@ No serious hobbies
   To learn more see <a href="https://libreddit.de/r/privacy" target="_blank">r/privacy</a> (reddit).
 </div>
 
-## Projects
-[TCLink](https://github.com/SlowsieNT/c/) Dark theme Chat (flat design) (Unlicense)<br>
-[DBTools](https://github.com/SlowsieNT/dbtools/) DBTools php Library (Unlicense), used by TCLink<br>
 
-### Github Page:
-[Romaji Memory Game](https://slowsient.github.io/romaji/) (Unlicense)<br>
-[NumeroUtils](https://slowsient.github.io/numero/) Numerology (Unlicense)<br>
 
-### Other:
-[Simple Http Server](https://github.com/SlowsieNT/MiniHttpServer) (0-BSD)<br>
-[DoS Library](https://github.com/SlowsieNT/SNT-SS22) *http* Spark (0-BSD)<br>
