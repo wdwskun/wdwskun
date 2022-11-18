@@ -18,6 +18,11 @@ No serious hobbies
 </tbody>
 </table>
 <div>
+  <p  align="center">
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> 
+                  
+  </p>
+</p>
   I have no social media because they abuse user data in every way possible.<br>
   To learn more see <a href="https://libreddit.de/r/privacy" target="_blank">r/privacy</a> (reddit).
 </div>
