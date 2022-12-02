@@ -1,7 +1,5 @@
 ## About
-<br>Working on android apps
-I'm fond of viruses under the windows, like a loner
-No serious hobbies
+<br>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=unkwnting.unkwnting)
 
