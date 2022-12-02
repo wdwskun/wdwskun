@@ -10,6 +10,16 @@ No serious hobbies
 <table>
   <thead><tr><th>Name / Link</th><th>ID / Username</th><th>Response Time</th></tr></thead>
 <tbody>
+🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+</p>
 <tr>
   <td><a href="https://getsession.org/" target="_blank">Session App</a></td>
   <td>05606b57562c2fe658710e669470eac28e7836c78f7899032219a9fdc636d1ed70</td>
