@@ -20,7 +20,7 @@
 </p>
 <tr>
   <td><a href="https://getsession.org/" target="_blank">Session App</a></td>
-  <td>05606b57562c2fe658710e669470eac28e7836c78f7899032219a9fdc636d1ed70</td>
+  <td>-</td>
   <td>24h upto 7 days</td>
 </tr>
 </tbody>
